@@ -6,4 +6,9 @@ public class HelloWorld {
     {
         System.out.println("sb");
     }
+    public void run()
+    {
+        System.out.println("嘿咻傻傻的橙子");
+    }
+
 }
