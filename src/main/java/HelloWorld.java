@@ -10,5 +10,9 @@ public class HelloWorld {
     {
         System.out.println("嘿咻傻傻的橙子");
     }
+    public void tell()
+    {
+        System.out.println("trash");
+    }
 
 }
