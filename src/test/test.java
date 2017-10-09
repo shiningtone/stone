@@ -8,7 +8,7 @@ public class test {
     @Test
     public void run()
     {
-        String str=null;
+        String str="shfs";
         System.out.println("sb");
         Boolean s=StringUtils.isBlank(str);
         System.out.println(s);
