@@ -12,7 +12,7 @@ public class HelloWorld {
     }
     public void tell()
     {
-        System.out.println("llsbagdsaf");
+        System.out.println("嘿咻嘿咻fuckfuck");
     }
 
 }
