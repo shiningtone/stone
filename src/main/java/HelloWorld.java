@@ -12,7 +12,7 @@ public class HelloWorld {
     }
     public void tell()
     {
-        System.out.println("嘿咻嘿咻哈哈Git");
+        System.out.println("嘿咻嘿咻哈哈Gitdsfasdgit s");
     }
 
 }
